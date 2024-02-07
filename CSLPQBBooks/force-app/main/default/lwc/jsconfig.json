@@ -13,7 +13,7 @@
     },
     "typeAcquisition": {
         "include": [
-            "jest"
+            "jest test"
         ]
     }
 }
